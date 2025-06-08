@@ -1,12 +1,18 @@
 # React + Vite
 
-## Run tests
-```
-npm test
-```
-
 ## Run app
+
+First run
+
+```
+npm install
+```
 
 ```
 npm run dev
+```
+
+## Run tests
+```
+npm test
 ```
