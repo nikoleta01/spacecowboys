@@ -1,0 +1,15 @@
+@import "tailwindcss";
+@import "./fonts.css";
+
+@theme {
+  --color-background-light: #acb1b5;
+  --color-background-dark: #161b1f;
+  --color-font-footer: #484d51;
+  --color-primary: #ffdd09;
+  --color-about-us: #dfdfe1;
+  --color-navigation: #43484e;
+  --color-font-navigation: #fcfcfe;
+  --color-arrow-navigation: #474c50;
+  --font-merriweather: "Merriweather", serif;
+  --font-montserrat: "Montserrat", sans-serif;
+}
